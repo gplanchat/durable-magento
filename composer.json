@@ -15,7 +15,7 @@
     "type": "magento2-module",
     "require": {
         "ext-mbstring": "*",
-        "gplanchat/durable": "self.version",
+        "gplanchat/durable": "^0.1.0-beta1",
         "magento/framework": "^103.0",
         "magento/module-backend": "^102.0",
         "magento/module-ui": "^101.2",
